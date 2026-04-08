@@ -2,7 +2,7 @@ from sklearn.preprocessing import MinMaxScaler
 import pandas as pd
 
 
-# Load CSV from same directory as this script (works from any cwd)
+# Load CSV
 df = pd.read_csv("data/School_Attendance_dataset.csv")
 
 # Clean column names

@@ -1,0 +1,24 @@
+feature,coefficient
+2020_2021_student_count,1.9345783901859377
+2019_2020_student_count,-1.1460752553430187
+2021_2022_student_count,-0.8107896174994368
+2019_2020_attendance_rate,0.549305986876156
+2020_2021_attendance_rate,0.45216154694496336
+cat_homelessness,0.02719513621616248
+group_students experiencing homelessness,0.027195136215996084
+group_hispanic/latino of any race,-0.010672620535893155
+cat_free/reduced lunch,-0.007869198523314304
+group_students with high needs,-0.007479307539552724
+group_free meal eligible,-0.007448635919381231
+cat_high needs,-0.006578212156004884
+group_students with disabilities,-0.005330622900014591
+cat_students with disabilities,-0.005330622899972735
+group_english learners,-0.004370971637295189
+cat_unknown,-0.002965796654343505
+group_all students,-0.002965796654137489
+group_free/reduced price meal eligible,-0.0026907625973480384
+group_black or african american,0.0023394317308730954
+group_reduced price meal eligible,0.002270199993153721
+group_white,0.0019192818327246005
+group_students without high needs,0.0009010953836098806
+cat_race/ethnicity,-8.033434520708254e-05

@@ -1,4 +1,7 @@
-import pandas as pd
+import runpy
 
-# Load CSV from same directory
-df = pd.read_csv("data/cleaned_data.csv")
+print("1. Clean data")
+runpy.run_path("data/cleaning_data.py")
+
+print("2. Categorize data")
+runpy.run_path("data/categorize_data.py")
